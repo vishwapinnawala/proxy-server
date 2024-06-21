@@ -1,0 +1,11 @@
+{
+    "name": "node-proxy-server",
+    "version": "1.0.0",
+    "description": "A simple Node.js proxy server",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+}
